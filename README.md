@@ -1,2 +1,2 @@
 # webschool-magazine-python
-A revista dedicada ao PHP.
+A revista dedicada ao Python.
